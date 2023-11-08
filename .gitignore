@@ -1,0 +1,25 @@
+#### FULL APP
+
+##template
+/full-app/react-admin-main
+
+##
+/full-app/react-admin/node_modules
+/full-app/react-admin/.gitignore
+
+
+#### FITNESS WEBSITE
+
+##
+/fitness-website/node_modules
+/fitness-website/.gitignore
+
+#### BANK MODERN APP
+
+##template
+/bank-modern app/project_hoobank-main
+
+##
+/bank-modern app/bank-app/node_modules
+/bank-modern app/bank-app/.gitignore
+
