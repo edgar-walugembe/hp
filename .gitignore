@@ -1,7 +1,7 @@
 #### FULL APP
 
 ##template
-/full-app/react-admin-main
+/full-app/react-admin-ui
 
 ##
 /full-app/react-admin/node_modules
@@ -17,9 +17,9 @@
 #### BANK MODERN APP
 
 ##template
-/bank-modern app/project_hoobank-main
+/bank-modern-app/project_hoobank-main
 
 ##
-/bank-modern app/bank-app/node_modules
-/bank-modern app/bank-app/.gitignore
+/bank-modern-app/bank-app/node_modules
+/bank-modern-app/bank-app/.gitignore
 
