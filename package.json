@@ -1,0 +1,13 @@
+{
+  "name": "hp",
+  "version": "1.0.0",
+  "description": "\"hp projects running in one terminal\"",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bank:app": "cd bank-modern-app/bank-app && npm run dev",
+    "fitness:app": "cd fitness-website && npm start",
+    "dashboard:app": "cd full-app/react-admin && npm run dev"
+  },
+  "author": "",
+  "license": "ISC"
+}

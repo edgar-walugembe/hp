@@ -1,0 +1,14 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "fitness-website/node_modules": true,
+    "bank-modern-app\\bank-app/node_modules": true,
+    "full-app\\react-admin/node_modules": true
+  },
+  "explorerExclude.backup": {}
+}
