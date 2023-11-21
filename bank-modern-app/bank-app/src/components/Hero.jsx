@@ -50,7 +50,6 @@ const Hero = () => (
       <div className="absolute z-[0] w-[50%] h-[50%] right-20 bottom-20 blue__gradient" />
     </div>
 
-    {/* 1:5:04 */}
     <div className={`ss:hidden ${styles.flexCenter}`}>
       <GetStarted />
     </div>
