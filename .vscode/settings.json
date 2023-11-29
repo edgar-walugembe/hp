@@ -8,7 +8,8 @@
     "**/Thumbs.db": true,
     "fitness-website/node_modules": true,
     "bank-modern-app\\bank-app/node_modules": true,
-    "full-app\\react-admin/node_modules": true
+    "full-app\\react-admin/node_modules": true,
+    "full-app\\react-admin-ui/node_modules": true
   },
   "explorerExclude.backup": {}
 }
