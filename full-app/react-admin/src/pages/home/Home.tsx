@@ -1,4 +1,4 @@
-import BarChartBox from "../../components/barChartBox/barChartBox";
+import BarChartBox from "../../components/barChartBox/BarChartBox";
 import BigChartBox from "../../components/bigChartBox/BigChartBox";
 import ChartBox from "../../components/chartBox/ChartBox";
 import PieChartBox from "../../components/pieChartBox/PieChartBox";
@@ -48,3 +48,5 @@ const Home = () => {
 };
 
 export default Home;
+
+//1:52:00
