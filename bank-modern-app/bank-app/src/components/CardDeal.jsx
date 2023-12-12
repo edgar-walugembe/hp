@@ -5,3 +5,5 @@ const CardDeal = () => {
 };
 
 export default CardDeal;
+
+//1:35:00
