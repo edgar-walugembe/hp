@@ -26,19 +26,19 @@ a {
   }
 
   @include xl {
-    background-color: rgba(179, 255, 0, 0.101);
+    background-color: rgba(179, 255, 0, 0.664);
   }
 
   @include lg {
-    background-color: rgba(4, 0, 255, 0.101);
+    background-color: rgba(4, 0, 255, 0.205);
   }
 
   @include md {
-    background-color: rgba(255, 0, 212, 0.101);
+    background-color: rgba(255, 0, 212, 0.384);
   }
 
   @include sm {
-    background-color: rgba(0, 255, 34, 0.101);
+    background-color: rgba(0, 0, 0, 0.863);
   }
 }
 
