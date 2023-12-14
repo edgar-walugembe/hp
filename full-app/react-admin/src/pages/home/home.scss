@@ -44,10 +44,6 @@
     grid-column: span 2;
     grid-row: span 2;
 
-    @include xl {
-      grid-column: span 3;
-    }
-
     @include md {
       display: none;
     }
